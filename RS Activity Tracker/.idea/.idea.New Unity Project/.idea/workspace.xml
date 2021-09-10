@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef9526dd-175a-43e2-9b30-31e5436bae09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Gui/Views/MonthlyView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Layout/GridLayoutGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gui/Views/DailyView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gui/Views/WeeklyView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gui/Views/MainView.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Gui/Ids/ViewId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/DropDownItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scritps/Flow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scritps/Frosted.shader" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Ids/ColorId2.cs" />
+        <option value="$PROJECT_DIR$/../Downloads/UniColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/UniColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Stoicode/UniLib/Gui/Elements/Popup/GuiPopupHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Content/SearchUtils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Content/Daily.cs" />
+        <option value="$PROJECT_DIR$/Assets/Content/Monthly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Content/Weekly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Ids/WeeklyId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Ids/MonthlyId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Ids/DailyId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Core/DailyCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Core/MonthlyCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Core/WeeklyCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Ids/TypeId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Stoicode/UniLib/Gui/Elements/View/GuiView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Views/WeeklyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Views/MainView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Views/DailyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Stoicode/UniLib/Gui/Elements/View/Template/EmptyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Ids/ColorId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Content/Activity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Content/SubGoal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Ids/ActivityId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Views/MonthlyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Views/StartView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Ids/PopupId.cs" />
+        <option value="$PROJECT_DIR$/Assets/Core/ListCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Core/GuiCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/ListItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/SubGoalItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Core/TimeCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Popups/SubGoalPopup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/TabsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Core/ActivityCore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/SearchUtils.cs" />
+        <option value="$PROJECT_DIR$/Assets/App.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gui/Views/SettingsView.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ttoV8DENtINNRr5T3xafVOnlXC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef9526dd-175a-43e2-9b30-31e5436bae09" name="Default Changelist" comment="" />
+      <created>1623597770308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623597770308</updated>
+      <workItem from="1623597778884" duration="3870000" />
+      <workItem from="1623609217795" duration="6077000" />
+      <workItem from="1623700856957" duration="22768000" />
+      <workItem from="1623870016714" duration="19132000" />
+      <workItem from="1624035911862" duration="365000" />
+      <workItem from="1624036309710" duration="504000" />
+      <workItem from="1624040503358" duration="24014000" />
+      <workItem from="1624113786476" duration="27879000" />
+      <workItem from="1624673834517" duration="22863000" />
+      <workItem from="1626445175243" duration="826000" />
+      <workItem from="1627145813664" duration="2462000" />
+      <workItem from="1627148399267" duration="1229000" />
+      <workItem from="1629851179954" duration="40988000" />
+      <workItem from="1629941447691" duration="28364000" />
+      <workItem from="1630031681708" duration="21657000" />
+      <workItem from="1630502587940" duration="705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="568" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1629895861017">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="618" y="568" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.3440.1410/740.-1080.1920.1050@0.0.3440.1410" timestamp="1629895861017" />
+    <state x="694" y="425" key="RiderGenerateDialog" timestamp="1629861888882">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="694" y="425" key="RiderGenerateDialog/0.0.3440.1410/740.-1080.1920.1050@0.0.3440.1410" timestamp="1629861888882" />
+    <state x="1778" y="352" key="SettingsEditor" timestamp="1623796889379">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1778" y="352" key="SettingsEditor/0.0.3440.1410/740.-1080.1920.1050@0.0.3440.1410" timestamp="1623796889379" />
+    <state x="516" y="337" key="run.anything.popup" timestamp="1623720735951">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="516" y="337" key="run.anything.popup/0.0.3440.1410/740.-1080.1920.1050@0.0.3440.1410" timestamp="1623720735951" />
+    <state x="518" y="323" width="672" height="678" key="search.everywhere.popup" timestamp="1629902436255">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="518" y="323" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410/740.-1080.1920.1050@0.0.3440.1410" timestamp="1629902436255" />
+  </component>
+</project>
