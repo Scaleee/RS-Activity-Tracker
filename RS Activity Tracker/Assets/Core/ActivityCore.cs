@@ -374,12 +374,15 @@ public class ActivityCore : MonoBehaviour
     {
         switch (type)
         {
+            // Method is called and calls the same method to check activity type
             case TypeId.All:
                 TimeCheck(oldTime, newTime, TypeId.Daily);
                 TimeCheck(oldTime, newTime, TypeId.Weekly);
                 TimeCheck(oldTime, newTime, TypeId.Monthly);
                 break;
             
+            // When the method is called again it uses the times and type to check which one needs to
+            // or doesnt need to be reset
             default:
                 if (App.Time.ResetCheck(oldTime, newTime, type))
                 {
@@ -393,6 +396,7 @@ public class ActivityCore : MonoBehaviour
 
     public void ResetCompleted(byte type)
     {
+        // Resets all activities var completed to false
         foreach (var d in Activities.Where(d => d.Type == type))
         {
             d.Completed = false;
@@ -400,6 +404,7 @@ public class ActivityCore : MonoBehaviour
                 s.Completed = false;
         }
         
+        // Recreates list with updates values
         App.Gui.Views.Get(App.Gui.Views.ActiveView).CreateList();
     }
 

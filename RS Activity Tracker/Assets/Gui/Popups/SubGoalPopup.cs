@@ -53,8 +53,9 @@ public class SubGoalPopup : GuiPopup
     {
         ActivityName.text = data.Name;
 
-        this.ListItem = listItem;
+        this.ListItem = listItem; // Not used, need to look into
         
+        // Instantiates unity objects for each piece of data in list
         foreach (var s in data.SubGoal)
         {
             var o = Instantiate(SubGoalPrefab, Content, false);

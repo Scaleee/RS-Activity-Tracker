@@ -21,7 +21,7 @@ public class ListItem : MonoBehaviour
 
     public void SetListener()
     {
-        PopUpButton.onClick.AddListener(() => { CreatePopUp(); });
+        PopUpButton.onClick.AddListener(CreatePopUp);
         CompletedButton.onClick.AddListener(() => { SetCompleted(true); });
         FavoritedButton.onClick.AddListener(() => { SetFavorite(true); });
     }

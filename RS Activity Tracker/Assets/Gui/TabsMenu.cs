@@ -23,7 +23,7 @@ public class TabsMenu : MonoBehaviour
     
     private void Start()
     {
-        // Add listener to onclick method of each button so that when it clicks a method is called
+        // Adds listener to onclick method of each button so that when it clicks a method is called
         // Syntax: buttonvariable.OnClick.AddListener(method);
         // A way of writing a method without writing a full class method is like this: () => { }
         for (int i = 0; i < menuButton.Length; i++)
@@ -58,6 +58,7 @@ public class TabsMenu : MonoBehaviour
         }
     }
 
+    // When the favorite button is pressed, this method is called
     public void ToggleFavorite()
     {
         ShowFavorite = !ShowFavorite;
@@ -69,6 +70,7 @@ public class TabsMenu : MonoBehaviour
         App.Gui.Views.Get(App.Gui.Views.ActiveView).CreateList();
     }
 
+    // When the completed button is pressed this method is called
     public void ToggleCompleted()
     {
         ShowCompleted = !ShowCompleted;
@@ -79,7 +81,8 @@ public class TabsMenu : MonoBehaviour
         
         App.Gui.Views.Get(App.Gui.Views.ActiveView).CreateList();
     }
-
+    
+    // This method is called when the search bar was used
     public void SearchEdit(string text)
     {
         SearchText = text.ToLower();
